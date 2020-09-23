@@ -9,9 +9,9 @@ Actualmente estudiante del Instituto Tecnologíco de Tijuana, **No. Contorl 1521
 
 # Horario de Clase
 
-|Materia                |Docente                        |Lunes       |Marte       |Miércoles   |Jueves      |Viernes     |
-|-----------------------|-------------------------------|------------|------------|------------|------------|------------|
-|Estructura de datos    |Claudia Negrete Sanchez        |11:00-12:00 |            |10:00-12:00 |            |10:00-12:00 |
-|Lenguajes de Interfaz  |Rene Solis Reyes               |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |
-|Ec. Diferenciales      |Jose Alberto Lopez Snachez     |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |
-|Plan de Negocios       |Miguel Angel Diaz Gonzalez     |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |
+|Materia                 |Docente                     |Lunes       |Marte       |Miércoles   |Jueves      |Viernes     |
+|------------------------|----------------------------|------------|------------|------------|------------|------------|
+|Estructura de datos     |Claudia Negrete Sanchez     |11:00-12:00 |            |10:00-12:00 |            |10:00-12:00 |
+|Lenguajes de Interfaz   |Rene Solis Reyes            |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |
+|Ec. Diferenciales       |Jose Alberto Lopez Snachez  |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |
+|Plan de Negocios        |Miguel Angel Diaz Gonzalez  |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |
