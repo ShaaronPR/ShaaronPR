@@ -1,19 +1,17 @@
-# Shaaron Porras Rangel
-## Ing. en Sistemas Computacionalers
-[img1]: C:\Users\porra\Downloads\cooltext363391049873403.PNG
-### Hi there 👋
+# Ing. en Sistemas Computacionales
 
-<!--
-**ShaaronPR/ShaaronPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estudiante del Instituto Tecnologíco de Tijuana, **No. Contorl 15211343**. 
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en una empresa médica, en el área de I.T.
+- 🌱 Actualmente estoy aprendiendo otros lenguajes de programación HTML5 y JavaScrip
+- 🤔 Busco y ofresco ayuda con algunos lenguajes de programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Horario de Clase
+
+|Materia                |Docente                        |Lunes       |Marte       |Miércoles   |Jueves      |Viernes     |
+|-----------------------|-------------------------------|------------|------------|------------|------------|------------|
+|Estructura de datos    |Claudia Negrete Sanchez        |11:00-12:00 |            |10:00-12:00 |            |10:00-12:00 |
+|Lenguajes de Interfaz  |Rene Solis Reyes               |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |
+|Ec. Diferenciales      |Jose Alberto Lopez Snachez     |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |
+|Plan de Negocios       |Miguel Angel Diaz Gonzalez     |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |
