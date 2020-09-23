@@ -1,4 +1,5 @@
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5465657.png" width="1150" height="131" alt="Ing en Sistemas Computacionales" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3633969502">Create Your Own Logo</a>
 
 # Hola colegas
 
