@@ -1,5 +1,6 @@
-# Ing. en Sistemas Computacionales
-![Texto alternativo](porra\Downloads\cooltext363391049873403.png "Título alternativo")
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+# Hola colegas
 
 Actualmente estudiante del ***Instituto Tecnologíco de Tijuana***, **No. Contorl 15211343**. 
 
