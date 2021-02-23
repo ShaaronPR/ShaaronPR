@@ -11,9 +11,10 @@ Actualmente estudiante del ***Instituto Tecnologíco de Tijuana***, **No. Contor
 
 # Horario de Clase
 
-|Materia                 |Docente                     |Lunes       |Marte       |Miércoles   |Jueves      |Viernes     |
-|------------------------|----------------------------|------------|------------|------------|------------|------------|
-|Estructura de datos     |Claudia Negrete Sanchez     |11:00-12:00 |            |10:00-12:00 |            |10:00-12:00 |
-|Lenguajes de Interfaz   |**_Rene Solis Reyes_**      |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |14:00-15:00 |
-|Ec. Diferenciales       |Jose Alberto Lopez Snachez  |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |
-|Plan de Negocios        |Miguel Angel Diaz Gonzalez  |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |19:00-20:00 |
+|Materia                 		                 |Docente                          |Lunes       |Marte       |Miércoles   |Jueves      |Viernes     |
+|--------------------------------------------|---------------------------------|------------|------------|------------|------------|------------|
+|Toipicos Avanzados de Programacion	         |Maestro Pendiente     	         |13:00-14:00 |            |12:00-14:00 |            |12:00-14:00 |
+|Analisis Avanzado de Software	   	         |Diego Rafael Muñoz Fernadez      |15:00-16:00 |15:00-16:00 |15:00-16:00 |15:00-16:00 |15:00-16:00 |
+|Lenguajes y Automatas I		                 |Luis Alfonso Gaxiola Vega        |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |
+|Topicos Avazandos de Desarrollo de Software |Ashlee Evelin b Gallegos         |17:00-18:00 |17:00-18:00 |17:00-18:00 |17:00-18:00 |17:00-18:00 |
+|Sistemas Programables		                   |Jaime Leonardo Enriquez Alvarez  |18:00-19:00 |18:00-19:00 |18:00-19:00 |18:00-19:00 |18:00-19:00 |
