@@ -13,7 +13,7 @@ Actualmente estudiante del ***Instituto Tecnologíco de Tijuana***, **No. Contor
 
 |Materia                 		                 |Docente                          |Lunes       |Marte       |Miércoles   |Jueves      |Viernes     |
 |--------------------------------------------|---------------------------------|------------|------------|------------|------------|------------|
-|Toipicos Avanzados de Programacion	         |Maestro Pendiente     	         |13:00-14:00 |            |12:00-14:00 |            |12:00-14:00 |
+|Toipicos Avanzados de Programacion	         |Cynthia Ivette Miramontes Ortega |13:00-14:00 |            |12:00-14:00 |            |12:00-14:00 |
 |Analisis Avanzado de Software	   	         |Diego Rafael Muñoz Fernadez      |15:00-16:00 |15:00-16:00 |15:00-16:00 |15:00-16:00 |15:00-16:00 |
 |Lenguajes y Automatas I		                 |Luis Alfonso Gaxiola Vega        |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |16:00-17:00 |
 |Topicos Avazandos de Desarrollo de Software |Ashlee Evelin b Gallegos         |17:00-18:00 |17:00-18:00 |17:00-18:00 |17:00-18:00 |17:00-18:00 |
